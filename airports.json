@@ -1,0 +1,20 @@
+
+ {
+
+"airportdata":
+
+    [
+
+        {
+               "id":1
+               "airport_name": "Turkiye-Istanbul Havalimani"
+               "airport_city": "Istanbul"
+       },
+       {
+               "id":2
+               "airport_name": "Turkiye-Esenboga Havalimani"
+               "airport_city": "Ankara"
+       }
+ 
+    ]
+}
